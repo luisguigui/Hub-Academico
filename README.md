@@ -1,4 +1,4 @@
-# 📚 SVP ACADEMIC HUB `(Dev Edition)`
+# 📚 SVP ACADEMIC HUB
 
 Um lançador centralizado de ferramentas acadêmicas desenvolvido em **Python** e **CustomTkinter**. O projeto funciona como um ecossistema integrado para estudantes e desenvolvedores, permitindo a execução modular de simuladores e calculadoras através de uma interface profissional com suporte a temas e escalabilidade.
 
