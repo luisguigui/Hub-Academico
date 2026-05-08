@@ -28,10 +28,6 @@ Um ecossistema centralizado de ferramentas acadêmicas desenvolvido em Python co
 * `subprocess` - Gerenciamento de execução das ferramentas externas (.py).
 * `PIL/Pillow` - Renderização de posters e elementos visuais.
 
-**Instalação:**
-# Clone o repositório
-git clone https://github.com/luisguigui/AcademicHub.git
-
 # Instale as dependências
 pip install customtkinter pillow
 
