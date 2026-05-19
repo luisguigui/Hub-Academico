@@ -35,7 +35,3 @@
 - 🎭 **Modal System**: Janelas elegantes para conteúdo
 
 ---
-
-## 🛠️ 6 Ferramentas Integradas
-
-### 1️⃣ 🔬 **Calculadora PRO Elite**
